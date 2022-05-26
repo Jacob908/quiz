@@ -107,11 +107,11 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "Who invented JavaScript?",
+      question: "What is the capital of El Salvador?",
       answers: {
-        a: "Douglas Crockford",
-        b: "Sheryl Sandberg",
-        c: "Brendan Eich"
+        a: "Santa Ana",
+        b: "San Miguel",
+        c: "San Salvador"
       },
       correctAnswer: "c"
     },
